@@ -1,0 +1,14 @@
+.block {
+    position: relative;
+    height: 500px;
+    width: 500px;
+    border: 1px solid;
+}
+
+.box {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: darkorchid;
+    border-radius: 100px;
+}
